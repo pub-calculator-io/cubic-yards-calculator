@@ -1,6 +1,6 @@
 === Cubic Yards Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: cubic yards calculator, volume in cubic yards, concrete cubic yards, soil cubic yards, material quantity calculator, cubic yardage converter, cubic yards for construction, fill dirt cubic yard, mulch volume calculator, aggregate cubic yards
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
