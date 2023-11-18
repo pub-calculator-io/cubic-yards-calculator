@@ -1,4 +1,4 @@
-# Cubic Yards Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Cubic Yards Calculator Widget for WordPress
 
 Cubic yard calculator calculates cubic yards, feet, meters for landscape materials. Enter measurements in yards and feet and get volume conversions.
 
