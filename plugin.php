@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Cubic Yards Calculator by www.calculator.io
+Plugin Name: CI Cubic yards calculator
 Plugin URI: https://www.calculator.io/cubic-yards-calculator/
 Description: Cubic yard calculator calculates cubic yards, feet, meters for landscape materials. Enter measurements in yards and feet and get volume conversions.
 Version: 1.0.0
