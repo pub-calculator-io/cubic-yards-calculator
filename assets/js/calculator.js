@@ -2,7 +2,7 @@
 const units = {
 	'meters (m)': 1e-6,
 	'inches (in)': 0.0610237,
-	'feet\'s (ft)': 3.53147e-5,
+	'feets (ft)': 3.53147e-5,
 	'yards (yd)': 1.30795e-6,
 	'millimeters (mm)': 1000,
 	'centimeters (cm)': 1,
@@ -126,7 +126,7 @@ function calculateTrapezoidFootage() {
 function drawResult(volume) {
 	const volumes = {
 		meter: volume * units['meters (m)'],
-		foot: volume * units['feet\'s (ft)'],
+		foot: volume * units['feets (ft)'],
 		yard: volume * units['yards (yd)'],
 	}
 

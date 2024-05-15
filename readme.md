@@ -3,7 +3,6 @@
 Cubic yard calculator calculates cubic yards, feet, meters for landscape materials. Enter measurements in yards and feet and get volume conversions.
 
 ![Cubic Yards Calculator Input Form](/assets/images/screenshot-1.png "Cubic Yards Calculator Input Form")
-![Cubic Yards Calculator Calculation Results](/assets/images/screenshot-2.png "Cubic Yards Calculator Calculation Results")
 
 ## Installation
 

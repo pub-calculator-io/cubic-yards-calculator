@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Cubic Yards Cal
 == Screenshots ==
 
 1. The Cubic Yards Calculator Input Form.
-2. The Cubic Yards Calculator Calculation Results.
 
 == Installation ==
 
